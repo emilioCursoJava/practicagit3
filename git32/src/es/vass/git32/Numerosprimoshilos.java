@@ -167,7 +167,11 @@ public class hilo3 extends Thread
 
 public void metodoEmilio () {
 	
+<<<<<<< HEAD
 	System.out.println("metodo de emilio + jose");
+=======
+	System.out.println("metodo de emilio + Edgar + Hansel ");
+>>>>>>> Develop
 	
 }
 
